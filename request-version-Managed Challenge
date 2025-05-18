@@ -1,0 +1,1 @@
+(http.request.version eq "HTTP/1.0") or (http.request.version eq "HTTP/1.1") or (http.request.version eq "HTTP/1.2") or (http.request.version eq "SPDY/3.1")

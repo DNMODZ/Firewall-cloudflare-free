@@ -1,1 +1,0 @@
-(not http.request.method in {"GET" "POST"})
